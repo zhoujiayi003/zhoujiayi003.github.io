@@ -1,27 +1,28 @@
 {
-  "basics": {
-    "name": "Jiayi Zhou",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+  "education": [
+    {
+      "institution": "Hiroshima University",
+      "location": "Hiroshima, Japan",
+      "url": "http://www.morimo.com/morimo-ken/index.htm",
+      "area": "Software Development",
+      "studyType": "M.S. in Informatics and Data Science",
+      "startDate": "2022-10",
+      "endDate": "2024-10",
+      "score": "10",
+      "courses": ["Advised by Yasuhiko Morimoto"]
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
-  },
+    {
+      "institution": "Beijing University of Chemical Technology",
+      "location": "Beijing, China",
+      "url": "https://enjwc.buct.edu.cn/main.htm",
+      "area": "Software Development",
+      "studyType": "B.S. in Information and Computing Science",
+      "startDate": "2017-09",
+      "endDate": "2021-06",
+      "score": "10",
+      "courses": ["Theory of Relativity"]
+    }
+  ],
   "work": [
     {
       "name": "Institute for Advanced Study, Princeton University",
@@ -38,24 +39,11 @@
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
       "position": "Lead Organizer",
-      "url": "https://example.com",
+      "url": "http://www.morimo.com/morimo-ken/index.htm",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
       "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
