@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Create my first homepage !
+Create my first homepage! :sparkles: :smile:
