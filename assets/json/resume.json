@@ -1,6 +1,16 @@
 {
   "education": [
     {
+      "institution": "Hong Kong Baptist University",
+      "location": "Hong Kong, China",
+      "url": "https://www.comp.hkbu.edu.hk/",
+      "area": "Department of Computer Science",
+      "studyType": "Ph.D. in Computer Science",
+      "startDate": "2025-09",
+      "endDate": "",
+      "courses": ["Advised by Kaiyang Zhou"]
+    },
+    {
       "institution": "Hiroshima University",
       "location": "Hiroshima, Japan",
       "url": "http://www.morimo.com/morimo-ken/index.htm",
