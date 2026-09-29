@@ -22,6 +22,10 @@ $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
 $yellow-color: #efcc00 !default;
 
+// Hiroshima University brand green, used as the site theme color
+$hu-green-color: #005e3c !default;
+$hu-green-color-light: #37be8c !default; // lighter tint of the same hue for dark mode
+
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark: #1c1c1d;
@@ -32,7 +36,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($purple-color, 0.05);
+$code-bg-color-light: rgba($hu-green-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
