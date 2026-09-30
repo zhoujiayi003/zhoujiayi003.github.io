@@ -39,6 +39,16 @@
       "endDate": "2025-08"
     }
   ],
+  "teaching": [
+    {
+      "position": "Teaching Assistant",
+      "course": "COMP2027 Applied Linear Algebra for Computing (Section 1) [2026 S1]",
+      "institution": "Department of Computer Science, Hong Kong Baptist University",
+      "location": "Hong Kong, China",
+      "startDate": "2026-09",
+      "endDate": "2026-12"
+    }
+  ],
   "awards": [
     {
       "title": "First-class of People’s Scholarship",
