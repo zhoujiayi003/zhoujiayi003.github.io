@@ -79,6 +79,9 @@ jobs:
           valueFile: "_config.yml"
           propertyPath: "giscus.repo"
           value: ${{ github.repository }}
+      - name: Install ImageMagick 🖼️
+        # ubuntu-latest (24.04) no longer ships ImageMagick, which jekyll-imagemagick needs to generate the responsive webp images
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Install and Build 🔧
         run: |
           pip3 install --upgrade jupyter
