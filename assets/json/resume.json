@@ -7,8 +7,7 @@
       "area": "Department of Computer Science",
       "studyType": "Ph.D. in Computer Science",
       "startDate": "2025-09",
-      "endDate": "",
-      "courses": ["Advised by Kaiyang Zhou"]
+      "endDate": ""
     },
     {
       "institution": "Hiroshima University",
@@ -18,8 +17,7 @@
       "studyType": "M.S. in Informatics and Data Science",
       "startDate": "2022-10",
       "endDate": "2024-10",
-      "score": "10",
-      "courses": ["Advised by Yasuhiko Morimoto"]
+      "score": "10"
     },
     {
       "institution": "Beijing University of Chemical Technology",
@@ -38,8 +36,7 @@
       "position": "Research Assistant",
       "url": "https://example.com",
       "startDate": "2024-10",
-      "endDate": "2025-08",
-      "highlights": ["Robust Adaptation of Multimodal LLMs"]
+      "endDate": "2025-08"
     }
   ],
   "awards": [
