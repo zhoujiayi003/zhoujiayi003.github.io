@@ -15,6 +15,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+visitor_map: true # shows the MapMyVisitors world map at the bottom of the page
 ---
 
 Hi! I am Jiayi Zhou, a PhD student in the Department of Computer Science at Hong Kong Baptist University, advised by [Prof. Kaiyang Zhou](https://kaiyangzhou.github.io/).
